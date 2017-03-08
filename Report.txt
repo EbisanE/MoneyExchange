@@ -1,0 +1,6 @@
+Ebisan Ekperigin 30017511
+
+
+I implemented my code in a different way by using dictionaries that has the same assigned conversions as in the exchange_rates.txt file. 
+I then had to use mathematical implementations in evaluating all of my methods.
+I ran the code and it runs properly and effectively.
